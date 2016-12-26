@@ -1,14 +1,24 @@
 # TLJ
 ![alt text](https://www.tejpratapsingh.com/images/144x144.png "Logo")
-** A fantastic way to discover new movies to watch. **
 
-List of tech used:
-* Frontend
+****
+
+**A fantastic way to discover new movies to watch.**
+
+****
+
+## **List of tech used:**
+
+**Frontend**
+
 1. Angular
 2. Service worker
 3. Bootstrap
 
-* Backend
+****
+
+**Backend**
+
 1. expressjs
 2. mongodb
 3. sendgrid
@@ -18,7 +28,10 @@ List of tech used:
 7. helmet
 8. grunt
 
-* Data Source
+****
+
+**Data Source**
+
 1. imdb
 2. reddit
 3. youtube
