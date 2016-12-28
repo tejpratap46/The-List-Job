@@ -20,21 +20,27 @@
 **Backend**
 
 1. expressjs
-2. mongodb
-3. ElasticSearch
-4. sendgrid
-5. redis
-6. node-schedule
-7. web-push
-8. helmet
-9. grunt
+2. kue
+3. sendgrid
+4. node-schedule
+5. web-push
+6. helmet
+7. grunt
+
+****
+
+**Database**
+
+1. Mongodb
+2. ElasticSearch
+3. Redis
 
 ****
 
 **Data Source**
 
-1. imdb
-2. reddit
-3. youtube
-4. wikipedia
-5. itunes
+1. Imdb
+2. Reddit
+3. Youtube
+4. Wikipedia
+5. iTunes
